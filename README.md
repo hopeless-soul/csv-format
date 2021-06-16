@@ -1,6 +1,5 @@
-# csv-format
-"new.csv" >>
-
+# "new.csv":
+```
 Name \ Date,6/29/2020,6/30/2020,7/1/2020,7/2/2020,7/3/2020,7/4/2020,7/5/2020
 Adan Cain,0,0,5.1,2.8,0,0,0
 Alva Singleton,8,8,8,8,8,8,8
@@ -52,3 +51,4 @@ Sterling Lutz,8,6.4,8,8.2,7.7,0,0
 Timmy Bender,8,8,8,8,8,0,0
 Viola Hayes,8,8,8,8,8,0,0
 Wayne Payne,6.5,8,9,8,8,0,0
+```
